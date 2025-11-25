@@ -113,3 +113,4 @@ The platform includes a complete authentication system:
 - Ensure your browser has permission to access the camera
 - Optimal lighting conditions improve recognition accuracy
 - Position your hand clearly within the camera frame
+ o
